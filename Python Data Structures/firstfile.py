@@ -1,0 +1,1 @@
+print('Python for every body')
